@@ -4,17 +4,17 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "NewTriggerRotation.generated.h"
+#include "TriggerRotator.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class TEST_API UNewTriggerRotation : public UActorComponent
+class ARACHNOID_API UTriggerRotator : public UActorComponent
 {
 	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	UNewTriggerRotation();
+	UTriggerRotator();
 
 protected:
 	// Called when the game starts

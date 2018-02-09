@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class TestEditorTarget : TargetRules
+public class ArachnoidEditorTarget : TargetRules
 {
-	public TestEditorTarget(TargetInfo Target) : base(Target)
+	public ArachnoidEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 
-		ExtraModuleNames.AddRange( new string[] { "Test" } );
+		ExtraModuleNames.AddRange( new string[] { "Arachnoid" } );
 	}
 }
