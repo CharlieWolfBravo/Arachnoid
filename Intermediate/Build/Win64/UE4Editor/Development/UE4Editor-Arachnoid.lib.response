@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arachnoid.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\Arachnoid\Arachnoid.cpp.obj"
+"C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\Arachnoid\NewTriggerRotation.cpp.obj"
+"C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\Arachnoid\TriggerRotator.cpp.obj"
+"C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\Arachnoid\Arachnoid.init.gen.cpp.obj"
+"C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\Arachnoid\NewTriggerRotation.gen.cpp.obj"
+"C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\Arachnoid\TriggerRotator.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Arachnoid\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arachnoid.lib"

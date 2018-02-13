@@ -1,0 +1,1397 @@
+﻿Log file open, 02/12/18 19:18:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Arachnoid
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-932853850) SRandInit(-932853850).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231943
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-Arachnoid.dll
+Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arachnoid Development Win64 -project="C:/Users/lance.chisholm/Documents/Arachnoid/Arachnoid.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for Arachnoid (no existing makefile)
+Performing full C++ include scan (no include cache file)
+@progress push 5%
+@progress pop
+Performing 11 actions (4 in parallel)
+[3/11] Resource PCLaunch.rc
+[2/11] Resource ModuleVersionResource.rc.inl
+SharedPCH.Engine.cpp
+NewTriggerRotation.cpp
+TriggerRotator.cpp
+Arachnoid.init.gen.cpp
+Arachnoid.cpp
+NewTriggerRotation.gen.cpp
+TriggerRotator.gen.cpp
+[10/11] Link UE4Editor-Arachnoid.dll
+[11/11] Link UE4Editor-Arachnoid.lib
+   Creating library C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arachnoid.lib and object C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arachnoid.exp
+   Creating library C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arachnoid.suppressed.lib and object C:\Users\lance.chisholm\Documents\Arachnoid\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arachnoid.suppressed.exp
+Total build time: 88.65 seconds (Local executor: 37.95 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lance.chisholm/Documents/Arachnoid/Binaries/Win64/UE4Editor-Arachnoid.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.13-02.19.38:832][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-02.19.38:832][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.13-02.19.38:871][  0]LogInit: Computer: DESKTOP-90PUTN6
+[2018.02.13-02.19.38:871][  0]LogInit: User: lancechisholm
+[2018.02.13-02.19.38:871][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.13-02.19.38:871][  0]LogInit: High frequency timer resolution =3.132096 MHz
+[2018.02.13-02.19.38:871][  0]LogMemory: Memory total: Physical=20.0GB (20GB approx)
+[2018.02.13-02.19.38:871][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.13-02.19.38:872][  0]LogMemory: Process Physical Memory: 279.51 MB used, 279.51 MB peak
+[2018.02.13-02.19.38:872][  0]LogMemory: Process Virtual Memory: 272.59 MB used, 272.59 MB peak
+[2018.02.13-02.19.38:872][  0]LogMemory: Physical Memory: 4571.10 MB used,  15900.01 MB free, 20471.11 MB total
+[2018.02.13-02.19.38:872][  0]LogMemory: Virtual Memory: 730.32 MB used,  15900.01 MB free, 134217728.00 MB total
+[2018.02.13-02.19.39:178][  0]LogInit: Using OS detected language (en-US).
+[2018.02.13-02.19.39:178][  0]LogInit: Using OS detected locale (en-CA).
+[2018.02.13-02.19.39:269][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.13-02.19.39:885][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.13-02.19.42:806][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.13-02.19.42:846][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.02.13-02.19.42:846][  0]LogD3D11RHI:       4072/0/10235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x1002
+[2018.02.13-02.19.42:870][  0]LogD3D11RHI:    1. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.02.13-02.19.42:870][  0]LogD3D11RHI:       4072/0/10235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2018.02.13-02.19.42:872][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.13-02.19.42:872][  0]LogD3D11RHI:       0/0/10235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.13-02.19.42:872][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.13-02.19.42:878][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.13-02.19.42:878][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.13-02.19.42:878][  0]LogWindows: EnumDisplayDevices:
+[2018.02.13-02.19.42:878][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.02.13-02.19.42:879][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.02.13-02.19.42:879][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.02.13-02.19.42:879][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:879][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:879][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:880][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:880][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:880][  0]LogWindows:    8. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:880][  0]LogWindows:    9. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:880][  0]LogWindows:    10. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:881][  0]LogWindows:    11. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.02.13-02.19.42:881][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.13-02.19.42:881][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.02.13-02.19.42:881][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.13-02.19.42:881][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.13-02.19.42:881][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2018.02.13-02.19.42:939][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.13-02.19.42:953][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.02.13-02.19.42:955][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Users/lance.chisholm/Documents/Arachnoid/Intermediate/Shaders/WorkingDirectory/896/).
+[2018.02.13-02.19.42:955][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lance.chisholm/AppData/Local/Temp/UnrealShaderWorkingDir/857968E04FD933D1DF9762892A506F47/'.
+[2018.02.13-02.19.42:955][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.13-02.19.45:581][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.13-02.19.45:670][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.13-02.19.45:773][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.13-02.19.45:886][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.13-02.19.45:990][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.13-02.19.46:091][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.13-02.19.46:180][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.13-02.19.46:270][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.13-02.19.46:350][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.13-02.19.46:438][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.13-02.19.46:526][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.13-02.19.46:615][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.13-02.19.46:701][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.13-02.19.46:787][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.13-02.19.46:961][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.13-02.19.46:961][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.13-02.19.47:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.13-02.19.47:138][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.13-02.19.47:298][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.13-02.19.47:359][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.13-02.19.47:473][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.13-02.19.47:601][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.13-02.19.47:689][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.13-02.19.47:801][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.13-02.19.47:802][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.13-02.19.48:717][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.13-02.19.49:018][  0]LogDerivedDataCache: Loaded boot cache 0.30s 78MB C:/Users/lance.chisholm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-02.19.49:018][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lance.chisholm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.13-02.19.49:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lance.chisholm/Documents/Arachnoid/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.13-02.19.49:018][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.13-02.19.49:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lance.chisholm/Documents/Arachnoid/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.13-02.19.49:018][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.13-02.19.49:037][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.13-02.19.49:050][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lance.chisholm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.13-02.19.49:064][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.13-02.19.49:065][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.13-02.19.49:091][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-02.19.49:091][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-02.19.50:023][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-02.19.50:714][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.13-02.19.50:787][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.13-02.19.50:787][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.13-02.19.50:787][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.13-02.19.50:787][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.13-02.19.50:787][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.13-02.19.50:875][  0]LogNetVersion: Arachnoid , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1366196583)
+[2018.02.13-02.19.51:369][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.02.13-02.19.52:451][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.077137 seconds
+[2018.02.13-02.19.52:457][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.13-02.19.52:457][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.13-02.19.52:457][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.13-02.19.52:556][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.13-02.20.04:981][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.13-02.20.05:059][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.13-02.20.06:586][  0]LogAssetRegistry: Warning: C:\Users\lance.chisholm\Documents\Arachnoid\Content\Levels\Puzzles\BoxPuzzle.umap: Package has invalid export /Game/Levels/Puzzles/BoxPuzzle_BuiltData.BoxPuzzle_BuiltData, resave source package!
+[2018.02.13-02.20.06:586][  0]LogAssetRegistry: Warning: C:\Users\lance.chisholm\Documents\Arachnoid\Content\Levels\Puzzles\difficulty1\BoxPuzzle.umap: Package has invalid export /Game/Levels/Puzzles/difficulty1/BoxPuzzle_BuiltData.BoxPuzzle_BuiltData, resave source package!
+[2018.02.13-02.20.06:586][  0]LogAssetRegistry: Warning: C:\Users\lance.chisholm\Documents\Arachnoid\Content\Levels\Tests\GrappleTest.umap: Package has invalid export /Game/Levels/Tests/GrappleTest_BuiltData.GrappleTest_BuiltData, resave source package!
+[2018.02.13-02.20.06:635][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.13-02.20.07:468][  0]SourceControl: Source control is disabled
+[2018.02.13-02.20.07:468][  0]SourceControl: Source control is disabled
+[2018.02.13-02.20.07:587][  0]SourceControl: Source control is disabled
+[2018.02.13-02.20.07:734][  0]SourceControl: Source control is disabled
+[2018.02.13-02.20.09:372][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.13-02.20.09:910][  0]LogOcInput: OculusInput pre-init called
+[2018.02.13-02.20.10:468][  0]LogEngine: Initializing Engine...
+[2018.02.13-02.20.10:471][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.13-02.20.10:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.13-02.20.10:997][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.13-02.20.11:257][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.13-02.20.11:279][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-02.20.11:296][  0]LogInit: FAudioDevice initialized.
+[2018.02.13-02.20.11:717][  0]LogDerivedDataCache: Saved boot cache 0.42s 78MB C:/Users/lance.chisholm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-02.20.11:739][  0]LogInit: Texture streaming: Enabled
+[2018.02.13-02.20.11:940][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.13-02.20.12:207][  0]LogInit: Transaction tracking system initialized
+[2018.02.13-02.20.12:809][  0]BlueprintLog: New page: Editor Load
+[2018.02.13-02.20.14:520][  0]LocalizationService: Localization service is disabled
+[2018.02.13-02.20.16:244][  0]LogConsoleResponse: Display: 
+[2018.02.13-02.20.17:140][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.13-02.20.17:140][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.13-02.20.17:140][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.13-02.20.18:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lance.chisholm/Documents/Arachnoid/Content/' took 0.03s
+[2018.02.13-02.20.19:768][  0]SourceControl: Source control is disabled
+[2018.02.13-02.20.19:881][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.02.13-02.20.19:912][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.02.13-02.20.19:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.02.13-02.20.19:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.02.13-02.20.19:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.02.13-02.20.20:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.02.13-02.20.20:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.02.13-02.20.20:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.02.13-02.20.20:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.02.13-02.20.20:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.02.13-02.20.20:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.02.13-02.20.20:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.02.13-02.20.20:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.02.13-02.20.20:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.02.13-02.20.20:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.02.13-02.20.20:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.02.13-02.20.20:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.02.13-02.20.20:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.02.13-02.20.20:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.02.13-02.20.20:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Fire01.uasset"
+[2018.02.13-02.20.20:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.02.13-02.20.20:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.02.13-02.20.20:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.02.13-02.20.20:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Light01.uasset"
+[2018.02.13-02.20.20:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.02.13-02.20.20:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Light02.uasset"
+[2018.02.13-02.20.20:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.02.13-02.20.20:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.02.13-02.20.20:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.02.13-02.20.20:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.02.13-02.20.20:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.02.13-02.20.20:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.02.13-02.20.20:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.02.13-02.20.20:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.02.13-02.20.20:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.02.13-02.20.20:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Steam01.uasset"
+[2018.02.13-02.20.20:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.02.13-02.20.20:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.02.13-02.20.20:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.02.13-02.20.20:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.02.13-02.20.20:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.02.13-02.20.20:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.02.13-02.20.20:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.02.13-02.20.20:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.02.13-02.20.20:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.02.13-02.20.20:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.02.13-02.20.20:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.02.13-02.20.20:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.02.13-02.20.20:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.02.13-02.20.20:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.02.13-02.20.20:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.02.13-02.20.20:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.02.13-02.20.20:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.02.13-02.20.21:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.02.13-02.20.21:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.02.13-02.20.21:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.02.13-02.20.21:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.02.13-02.20.21:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.02.13-02.20.21:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Maps/StarterMap.umap"
+[2018.02.13-02.20.22:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.02.13-02.20.22:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.02.13-02.20.22:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.02.13-02.20.22:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.02.13-02.20.22:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.02.13-02.20.22:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.02.13-02.20.22:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.02.13-02.20.22:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.02.13-02.20.22:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.02.13-02.20.22:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.02.13-02.20.22:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.02.13-02.20.22:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.02.13-02.20.22:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.02.13-02.20.22:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.02.13-02.20.22:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.02.13-02.20.22:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.02.13-02.20.22:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.02.13-02.20.22:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.02.13-02.20.22:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.02.13-02.20.22:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.02.13-02.20.22:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.02.13-02.20.22:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.02.13-02.20.22:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.02.13-02.20.22:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.02.13-02.20.22:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.02.13-02.20.22:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.02.13-02.20.22:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.02.13-02.20.22:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.02.13-02.20.22:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.02.13-02.20.22:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.02.13-02.20.22:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.02.13-02.20.22:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.02.13-02.20.22:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.02.13-02.20.22:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.02.13-02.20.22:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.02.13-02.20.22:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.02.13-02.20.22:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.02.13-02.20.22:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.02.13-02.20.22:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.02.13-02.20.22:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.02.13-02.20.22:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.02.13-02.20.22:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.02.13-02.20.22:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.02.13-02.20.22:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.02.13-02.20.22:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.02.13-02.20.22:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.02.13-02.20.22:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.02.13-02.20.22:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.02.13-02.20.22:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.02.13-02.20.22:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.02.13-02.20.22:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.02.13-02.20.22:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.02.13-02.20.22:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.02.13-02.20.22:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.02.13-02.20.23:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.02.13-02.20.23:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.02.13-02.20.23:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.02.13-02.20.23:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.02.13-02.20.23:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.02.13-02.20.23:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.02.13-02.20.23:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.02.13-02.20.23:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.02.13-02.20.23:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.02.13-02.20.23:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.02.13-02.20.23:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.02.13-02.20.23:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Door.uasset"
+[2018.02.13-02.20.23:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.02.13-02.20.23:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.02.13-02.20.23:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.02.13-02.20.23:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.02.13-02.20.23:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.02.13-02.20.23:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.02.13-02.20.23:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.02.13-02.20.23:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.02.13-02.20.23:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.02.13-02.20.23:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.02.13-02.20.23:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.02.13-02.20.23:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.02.13-02.20.23:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.02.13-02.20.23:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.02.13-02.20.23:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.02.13-02.20.23:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.02.13-02.20.23:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.02.13-02.20.23:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.02.13-02.20.23:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.02.13-02.20.23:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.02.13-02.20.23:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.02.13-02.20.23:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.02.13-02.20.23:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.02.13-02.20.23:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.02.13-02.20.23:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.02.13-02.20.23:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.02.13-02.20.23:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.02.13-02.20.23:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.02.13-02.20.23:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.02.13-02.20.23:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.02.13-02.20.23:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.02.13-02.20.23:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.02.13-02.20.23:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.02.13-02.20.23:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.02.13-02.20.23:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.02.13-02.20.23:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.02.13-02.20.23:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.02.13-02.20.23:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.02.13-02.20.23:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.02.13-02.20.23:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.02.13-02.20.23:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.02.13-02.20.23:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.02.13-02.20.23:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.02.13-02.20.23:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.02.13-02.20.23:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.02.13-02.20.23:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.02.13-02.20.23:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.02.13-02.20.24:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.02.13-02.20.24:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.02.13-02.20.24:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.02.13-02.20.24:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.02.13-02.20.24:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.02.13-02.20.24:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.02.13-02.20.24:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.02.13-02.20.24:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.02.13-02.20.25:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.02.13-02.20.25:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.02.13-02.20.25:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.02.13-02.20.25:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.02.13-02.20.25:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.02.13-02.20.25:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.02.13-02.20.25:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.02.13-02.20.25:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.02.13-02.20.25:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.02.13-02.20.25:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.02.13-02.20.26:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.02.13-02.20.26:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.02.13-02.20.26:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.02.13-02.20.26:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.02.13-02.20.26:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.02.13-02.20.26:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.02.13-02.20.26:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.02.13-02.20.26:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.02.13-02.20.26:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.02.13-02.20.27:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.02.13-02.20.27:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.02.13-02.20.27:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.02.13-02.20.27:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.02.13-02.20.27:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.02.13-02.20.27:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.02.13-02.20.28:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.02.13-02.20.28:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.02.13-02.20.28:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.02.13-02.20.28:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.02.13-02.20.28:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.02.13-02.20.28:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.02.13-02.20.28:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.02.13-02.20.28:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.02.13-02.20.29:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.02.13-02.20.29:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.02.13-02.20.29:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.02.13-02.20.29:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.02.13-02.20.29:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.02.13-02.20.29:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.02.13-02.20.30:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.02.13-02.20.30:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.02.13-02.20.30:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.02.13-02.20.30:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.02.13-02.20.30:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.02.13-02.20.30:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.02.13-02.20.30:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.02.13-02.20.31:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.02.13-02.20.31:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.02.13-02.20.31:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.02.13-02.20.31:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.02.13-02.20.31:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.02.13-02.20.31:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.02.13-02.20.31:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.02.13-02.20.31:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.02.13-02.20.32:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.02.13-02.20.32:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.02.13-02.20.32:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.02.13-02.20.32:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.02.13-02.20.32:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.02.13-02.20.32:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.02.13-02.20.32:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.02.13-02.20.33:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.02.13-02.20.33:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.02.13-02.20.33:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.02.13-02.20.33:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.02.13-02.20.33:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.02.13-02.20.33:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.02.13-02.20.34:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.02.13-02.20.34:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.02.13-02.20.34:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.02.13-02.20.34:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.02.13-02.20.34:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.02.13-02.20.34:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.02.13-02.20.34:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.02.13-02.20.34:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.02.13-02.20.34:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.02.13-02.20.34:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.02.13-02.20.34:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.02.13-02.20.34:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.02.13-02.20.34:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.02.13-02.20.34:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.02.13-02.20.34:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.02.13-02.20.34:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.02.13-02.20.35:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.02.13-02.20.35:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.02.13-02.20.35:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.02.13-02.20.35:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.02.13-02.20.35:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.02.13-02.20.35:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.02.13-02.20.35:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.02.13-02.20.35:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.02.13-02.20.35:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.02.13-02.20.35:855][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2018.02.13-02.20.37:028][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.02.13-02.20.37:934][  0]LogStaticMesh: Built static mesh [0.94s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.02.13-02.20.38:431][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-02.20.39:180][  0]LogSavePackage: Save=85.60ms
+[2018.02.13-02.20.39:180][  0]LogSavePackage: Moving '../../../../../../Users/lance.chisholm/Documents/Arachnoid/Saved/Floor_400x400E97FCD214DEC71BA2480A1A9E818EC22.tmp' to '../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.02.13-02.20.39:186][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.02.13-02.20.39:186][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.02.13-02.20.39:189][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-02.20.39:204][  0]LightingResults: New page: Lighting Build
+[2018.02.13-02.20.39:307][  0]MapCheck: New page: Map Check
+[2018.02.13-02.20.39:307][  0]LightingResults: New page: Lighting Build
+[2018.02.13-02.20.42:121][  0]LogTexture: Display: Building textures: top (BGRA8, 500X250)
+[2018.02.13-02.20.42:121][  0]LogTexture: Display: Building textures: right (BGRA8, 250X500)
+[2018.02.13-02.20.42:121][  0]LogTexture: Display: Building textures: bottom (BGRA8, 500X250)
+[2018.02.13-02.20.42:121][  0]LogTexture: Display: Building textures: left (BGRA8, 250X500)
+[2018.02.13-02.20.42:121][  0]LogTexture: Display: Building textures: arrow (BGRA8, 50X50)
+[2018.02.13-02.20.42:121][  0]LogTexture: Display: Building textures: Reticle1 (AutoDXT, 64X64)
+[2018.02.13-02.20.42:121][  0]LogMaterial: Missing cached shader map for material GreenMat, compiling. 
+[2018.02.13-02.20.42:287][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.02.13-02.20.42:287][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.02.13-02.20.42:287][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.02.13-02.20.42:287][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.02.13-02.20.42:288][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.02.13-02.20.42:288][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.02.13-02.20.42:288][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.02.13-02.20.42:585][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.02.13-02.20.42:585][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.02.13-02.20.42:586][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.02.13-02.20.42:586][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2018.02.13-02.20.42:599][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.13-02.20.42:716][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.02.13-02.20.42:716][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.02.13-02.20.42:716][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.13-02.20.42:766][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.02.13-02.20.42:767][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.13-02.20.42:791][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.02.13-02.20.42:792][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.13-02.20.42:813][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.02.13-02.20.42:813][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.13-02.20.42:841][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.02.13-02.20.42:841][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.13-02.20.42:868][  0]LogMaterial: Missing cached shader map for material BlackMat, compiling. 
+[2018.02.13-02.20.43:097][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.02.13-02.20.43:474][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.02.13-02.20.43:797][  0]LogMaterial: Missing cached shader map for material RedMat, compiling. 
+[2018.02.13-02.20.43:984][  0]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.02.13-02.20.44:138][  0]LogMaterial: Missing cached shader map for material BlueMat, compiling. 
+[2018.02.13-02.20.44:729][  0]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2018.02.13-02.20.44:791][  0]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2018.02.13-02.20.44:876][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.02.13-02.20.45:038][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2018.02.13-02.20.45:370][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.13-02.20.46:313][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-02.20.46:436][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-02.20.46:586][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 149.855ms to complete.
+[2018.02.13-02.20.46:586][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.397
+[2018.02.13-02.20.48:004][  0]LogCollectionManager: Loaded 0 collections in 0.003615 seconds
+[2018.02.13-02.20.48:503][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lance.chisholm/Documents/Arachnoid/Saved/Collections/' took 0.01s
+[2018.02.13-02.20.48:503][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lance.chisholm/Documents/Arachnoid/Content/Developers/lancechisholm/Collections/' took 0.01s
+[2018.02.13-02.20.48:503][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lance.chisholm/Documents/Arachnoid/Content/Collections/' took 0.01s
+[2018.02.13-02.20.48:503][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.13-02.20.48:532][  0]LogContentBrowser: Native class hierarchy populated in 0.0264 seconds. Added 2365 classes and 521 folders.
+[2018.02.13-02.20.48:832][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.02.13-02.20.50:183][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2018.02.13-02.20.50:356][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.02.13-02.20.50:798][  0]LogSlate: Took 0.016283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-02.20.50:819][  0]LogSlate: Took 0.017928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.13-02.20.50:941][  0]LogSlate: Took 0.036639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.13-02.20.51:537][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.02.13-02.20.51:600][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-02.20.52:160][  0]LogSlate: Took 0.018279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-02.20.52:859][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2018.02.13-02.20.52:859][  0]LogLoad: (Engine Initialization) Total time: 172.99 seconds
+[2018.02.13-02.20.52:859][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.13-02.20.52:860][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.13-02.20.52:890][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.13-02.20.53:169][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.13-02.20.53:610][  3]LogAssetRegistry: Asset discovery search completed in 62.2629 seconds
+[2018.02.13-02.20.53:615][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.13-02.20.53:616][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000148 seconds (updated 0 objects)
+[2018.02.13-02.21.26:180][955]Cmd: MAP LOAD FILE="../../../../../../Users/lance.chisholm/Documents/Arachnoid/Content/Levels/HUB/BasicHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-02.21.26:229][955]LogSlate: Took 0.007383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-02.21.26:252][955]LightingResults: New page: Lighting Build
+[2018.02.13-02.21.26:254][955]LoadErrors: New page: Loading map: BasicHub.umap
+[2018.02.13-02.21.26:277][955]MapCheck: New page: Map Check
+[2018.02.13-02.21.26:277][955]LightingResults: New page: Lighting Build
+[2018.02.13-02.21.27:076][955]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.02.13-02.21.27:147][955]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2018.02.13-02.21.27:214][955]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2018.02.13-02.21.27:277][955]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.02.13-02.21.27:404][955]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2018.02.13-02.21.27:464][955]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2018.02.13-02.21.27:517][955]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2018.02.13-02.21.27:572][955]LogAIModule: Creating AISystem for world BasicHub
+[2018.02.13-02.21.27:660][955]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-02.21.27:719][955]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-02.21.27:879][955]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 160.112ms to complete.
+[2018.02.13-02.21.27:879][955]LogFileHelpers: Loading map 'BasicHub' took 1.721
+[2018.02.13-02.21.50:613][108]LogSlate: Took 0.005463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-02.21.50:887][108]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0029 seconds. Added 116 classes and 0 folders.
+[2018.02.13-02.21.53:036][108]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.02.13-02.21.53:146][108]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.02.13-02.21.53:735][108]LogSlate: Took 0.026210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.13-02.21.59:509][219]LogSlate: Took 0.020903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.13-02.25.35:711][456]LogSlate: Took 0.020270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.13-02.27.02:192][930]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.02.13-02.27.06:507][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-02.27.06:573][ 44]LogAssetRegistry: Warning: C:\Users\lance.chisholm\Documents\Arachnoid\Content\Levels\Puzzles\BoxPuzzle.umap: Package has invalid export /Game/Levels/Puzzles/BoxPuzzle_BuiltData.BoxPuzzle_BuiltData, resave source package!
+[2018.02.13-02.27.06:585][ 44]LogAssetRegistry: Warning: C:\Users\lance.chisholm\Documents\Arachnoid\Content\Levels\Puzzles\difficulty1\BoxPuzzle.umap: Package has invalid export /Game/Levels/Puzzles/difficulty1/BoxPuzzle_BuiltData.BoxPuzzle_BuiltData, resave source package!
+[2018.02.13-02.27.06:672][ 44]LogAssetRegistry: Warning: C:\Users\lance.chisholm\Documents\Arachnoid\Content\Levels\Tests\GrappleTest.umap: Package has invalid export /Game/Levels/Tests/GrappleTest_BuiltData.GrappleTest_BuiltData, resave source package!
+[2018.02.13-02.27.08:348][ 44]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.13-02.27.08:355][ 44]LogPlayLevel: [PlayLevel] Compiling ClimableWallTest before play...
+[2018.02.13-02.27.08:995][ 44]LogPlayLevel: PlayLevel: Blueprint regeneration took 647 ms (1 blueprints)
+[2018.02.13-02.27.09:046][ 44]PIE: New page: PIE session: BasicHub (Feb 12, 2018, 12:27:09 PM)
+[2018.02.13-02.27.09:058][ 44]LogPlayLevel: Creating play world package: /Game/Levels/HUB/UEDPIE_0_BasicHub
+[2018.02.13-02.27.09:099][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040814s)
+[2018.02.13-02.27.09:100][ 44]LogAIModule: Creating AISystem for world BasicHub
+[2018.02.13-02.27.09:105][ 44]LogPlayLevel: PIE: World Init took: (0.006042s)
+[2018.02.13-02.27.09:109][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HUB/BasicHub.BasicHub to /Game/Levels/HUB/UEDPIE_0_BasicHub.BasicHub (0.051643s)
+[2018.02.13-02.27.09:172][ 44]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-02.27.09:181][ 44]LogInit: FAudioDevice initialized.
+[2018.02.13-02.27.09:306][ 44]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.13-02.27.09:398][ 44]LogWorld: Bringing World /Game/Levels/HUB/UEDPIE_0_BasicHub.BasicHub up for play (max tick rate 0) at 2018.02.12-19.27.09
+[2018.02.13-02.27.09:445][ 44]LogWorld: Bringing up level for play took: 0.059485
+[2018.02.13-02.27.09:656][ 44]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.02.13-02.27.09:687][ 44]PIE: Play in editor start time for /Game/Levels/HUB/UEDPIE_0_BasicHub 1.689
+[2018.02.13-02.27.35:507][ 83]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.02.13-02.27.37:356][109]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-02.27.37:447][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-02.27.37:447][109]PIE: New page: PIE session: BasicHub (Feb 12, 2018, 12:27:37 PM)
+[2018.02.13-02.27.37:447][109]LogPlayLevel: Creating play world package: /Game/Levels/HUB/UEDPIE_0_BasicHub
+[2018.02.13-02.27.37:463][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015929s)
+[2018.02.13-02.27.37:464][109]LogAIModule: Creating AISystem for world BasicHub
+[2018.02.13-02.27.37:464][109]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.02.13-02.27.37:465][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HUB/BasicHub.BasicHub to /Game/Levels/HUB/UEDPIE_0_BasicHub.BasicHub (0.017292s)
+[2018.02.13-02.27.37:501][109]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-02.27.37:511][109]LogInit: FAudioDevice initialized.
+[2018.02.13-02.27.37:544][109]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.13-02.27.37:554][109]LogWorld: Bringing World /Game/Levels/HUB/UEDPIE_0_BasicHub.BasicHub up for play (max tick rate 0) at 2018.02.12-19.27.37
+[2018.02.13-02.27.37:554][109]LogWorld: Bringing up level for play took: 0.009811
+[2018.02.13-02.27.37:556][109]PIE: Play in editor start time for /Game/Levels/HUB/UEDPIE_0_BasicHub -0.442
+[2018.02.13-02.29.28:456][472]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-02.29.28:466][472]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.13-02.29.28:584][472]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.02.13-02.29.29:307][472]LogPlayLevel: PlayLevel: Blueprint regeneration took 841 ms (1 blueprints)
+[2018.02.13-02.29.29:307][472]PIE: New page: PIE session: BasicHub (Feb 12, 2018, 12:29:29 PM)
+[2018.02.13-02.29.29:308][472]LogPlayLevel: Creating play world package: /Game/Levels/HUB/UEDPIE_0_BasicHub
+[2018.02.13-02.29.29:324][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016534s)
+[2018.02.13-02.29.29:325][472]LogAIModule: Creating AISystem for world BasicHub
+[2018.02.13-02.29.29:325][472]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2018.02.13-02.29.29:325][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HUB/BasicHub.BasicHub to /Game/Levels/HUB/UEDPIE_0_BasicHub.BasicHub (0.017900s)
+[2018.02.13-02.29.29:362][472]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.13-02.29.29:372][472]LogInit: FAudioDevice initialized.
+[2018.02.13-02.29.29:408][472]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.13-02.29.29:419][472]LogWorld: Bringing World /Game/Levels/HUB/UEDPIE_0_BasicHub.BasicHub up for play (max tick rate 0) at 2018.02.12-19.29.29
+[2018.02.13-02.29.29:419][472]LogWorld: Bringing up level for play took: 0.009964
+[2018.02.13-02.29.29:421][472]PIE: Play in editor start time for /Game/Levels/HUB/UEDPIE_0_BasicHub 1.423
+[2018.02.13-02.29.29:449][472]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.000 Y=1.000 Z=-0.000
+[2018.02.13-02.29.29:923][473]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.000 Y=1.000 Z=-0.000
+[2018.02.13-02.29.29:962][474]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.991 Y=0.135 Z=-0.000
+[2018.02.13-02.29.30:006][475]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.991 Y=0.135 Z=-0.000
+[2018.02.13-02.29.30:034][476]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.990 Y=0.138 Z=-0.000
+[2018.02.13-02.29.30:061][477]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.147 Z=-0.000
+[2018.02.13-02.29.30:088][478]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.147 Z=-0.000
+[2018.02.13-02.29.30:114][479]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.147 Z=-0.000
+[2018.02.13-02.29.30:139][480]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.150 Z=-0.000
+[2018.02.13-02.29.30:166][481]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.150 Z=-0.000
+[2018.02.13-02.29.30:192][482]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.150 Z=-0.000
+[2018.02.13-02.29.30:220][483]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=0.153 Z=-0.000
+[2018.02.13-02.29.30:247][484]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.987 Y=0.161 Z=-0.000
+[2018.02.13-02.29.30:274][485]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.985 Y=0.175 Z=-0.000
+[2018.02.13-02.29.30:302][486]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.981 Y=0.195 Z=-0.000
+[2018.02.13-02.29.30:329][487]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.973 Y=0.230 Z=-0.000
+[2018.02.13-02.29.30:358][488]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.958 Y=0.287 Z=-0.000
+[2018.02.13-02.29.30:386][489]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.926 Y=0.378 Z=-0.000
+[2018.02.13-02.29.30:414][490]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.859 Y=0.511 Z=-0.000
+[2018.02.13-02.29.30:441][491]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.756 Y=0.654 Z=-0.000
+[2018.02.13-02.29.30:471][492]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.617 Y=0.787 Z=-0.000
+[2018.02.13-02.29.30:498][493]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.440 Y=0.898 Z=-0.000
+[2018.02.13-02.29.30:527][494]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.282 Y=0.959 Z=-0.000
+[2018.02.13-02.29.30:555][495]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.197 Y=0.980 Z=-0.000
+[2018.02.13-02.29.30:584][496]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.194 Y=0.981 Z=-0.000
+[2018.02.13-02.29.30:611][497]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.229 Y=0.973 Z=-0.000
+[2018.02.13-02.29.30:639][498]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.264 Y=0.964 Z=-0.000
+[2018.02.13-02.29.30:669][499]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.273 Y=0.962 Z=-0.000
+[2018.02.13-02.29.30:695][500]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.273 Y=0.962 Z=-0.000
+[2018.02.13-02.29.30:722][501]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.273 Y=0.962 Z=-0.000
+[2018.02.13-02.29.30:749][502]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.273 Y=0.962 Z=-0.000
+[2018.02.13-02.29.30:776][503]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.276 Y=0.961 Z=-0.000
+[2018.02.13-02.29.30:805][504]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.264 Y=0.964 Z=-0.000
+[2018.02.13-02.29.30:833][505]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.233 Y=0.972 Z=-0.000
+[2018.02.13-02.29.30:861][506]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.171 Y=0.985 Z=-0.000
+[2018.02.13-02.29.30:890][507]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.058 Y=0.998 Z=-0.000
+[2018.02.13-02.29.30:919][508]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.082 Y=0.997 Z=-0.000
+[2018.02.13-02.29.30:948][509]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.219 Y=0.976 Z=-0.000
+[2018.02.13-02.29.30:975][510]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.311 Y=0.950 Z=-0.000
+[2018.02.13-02.29.31:004][511]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.340 Y=0.941 Z=-0.000
+[2018.02.13-02.29.31:031][512]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.296 Y=0.955 Z=-0.000
+[2018.02.13-02.29.31:059][513]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.282 Y=0.959 Z=-0.000
+[2018.02.13-02.29.31:087][514]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.282 Y=0.959 Z=-0.000
+[2018.02.13-02.29.31:113][515]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.282 Y=0.959 Z=-0.000
+[2018.02.13-02.29.31:140][516]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.282 Y=0.959 Z=-0.000
+[2018.02.13-02.29.31:168][517]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.282 Y=0.959 Z=-0.000
+[2018.02.13-02.29.31:195][518]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.282 Y=0.959 Z=-0.000
+[2018.02.13-02.29.31:224][519]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.261 Y=0.965 Z=-0.000
+[2018.02.13-02.29.31:252][520]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.206 Y=0.979 Z=-0.000
+[2018.02.13-02.29.31:281][521]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.158 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:309][522]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.105 Y=0.994 Z=-0.000
+[2018.02.13-02.29.31:337][523]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.038 Y=0.999 Z=-0.000
+[2018.02.13-02.29.31:365][524]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.037 Y=0.999 Z=-0.000
+[2018.02.13-02.29.31:393][525]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.094 Y=0.996 Z=-0.000
+[2018.02.13-02.29.31:421][526]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.144 Y=0.990 Z=-0.000
+[2018.02.13-02.29.31:448][527]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:475][528]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:502][529]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:530][530]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:557][531]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:584][532]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.159 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:610][533]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.159 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:638][534]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.159 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:665][535]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.159 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:692][536]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.159 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:719][537]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.159 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:746][538]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:773][539]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:800][540]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.153 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:827][541]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.156 Y=0.988 Z=-0.000
+[2018.02.13-02.29.31:854][542]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.159 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:881][543]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:908][544]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:935][545]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:962][546]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.31:990][547]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.32:018][548]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.32:045][549]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.32:073][550]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.168 Y=0.986 Z=-0.000
+[2018.02.13-02.29.32:100][551]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.177 Y=0.984 Z=-0.000
+[2018.02.13-02.29.32:127][552]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.180 Y=0.984 Z=-0.000
+[2018.02.13-02.29.32:154][553]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:181][554]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:207][555]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:235][556]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:261][557]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:288][558]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:315][559]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:342][560]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:370][561]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:396][562]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:424][563]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.32:453][564]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.222 Y=0.975 Z=-0.000
+[2018.02.13-02.29.32:481][565]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.281 Y=0.960 Z=-0.000
+[2018.02.13-02.29.32:509][566]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.935 Z=-0.000
+[2018.02.13-02.29.32:539][567]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.426 Y=0.905 Z=-0.000
+[2018.02.13-02.29.32:567][568]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.495 Y=0.869 Z=-0.000
+[2018.02.13-02.29.32:595][569]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.541 Y=0.841 Z=-0.000
+[2018.02.13-02.29.32:624][570]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.585 Y=0.811 Z=-0.000
+[2018.02.13-02.29.32:653][571]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.626 Y=0.779 Z=-0.000
+[2018.02.13-02.29.32:680][572]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.666 Y=0.746 Z=-0.000
+[2018.02.13-02.29.32:708][573]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.699 Y=0.715 Z=-0.000
+[2018.02.13-02.29.32:737][574]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.727 Y=0.687 Z=-0.000
+[2018.02.13-02.29.32:765][575]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.753 Y=0.658 Z=-0.000
+[2018.02.13-02.29.32:793][576]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.775 Y=0.632 Z=-0.000
+[2018.02.13-02.29.32:821][577]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.797 Y=0.604 Z=-0.000
+[2018.02.13-02.29.32:850][578]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.822 Y=0.569 Z=-0.000
+[2018.02.13-02.29.32:878][579]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.839 Y=0.545 Z=-0.000
+[2018.02.13-02.29.32:907][580]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.856 Y=0.517 Z=-0.000
+[2018.02.13-02.29.32:936][581]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.875 Y=0.485 Z=-0.000
+[2018.02.13-02.29.32:963][582]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.890 Y=0.455 Z=-0.000
+[2018.02.13-02.29.32:991][583]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.904 Y=0.427 Z=-0.000
+[2018.02.13-02.29.33:019][584]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.918 Y=0.397 Z=-0.000
+[2018.02.13-02.29.33:046][585]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.933 Y=0.361 Z=-0.000
+[2018.02.13-02.29.33:075][586]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.944 Y=0.330 Z=-0.000
+[2018.02.13-02.29.33:103][587]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.955 Y=0.298 Z=-0.000
+[2018.02.13-02.29.33:131][588]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.964 Y=0.266 Z=-0.000
+[2018.02.13-02.29.33:158][589]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.972 Y=0.234 Z=-0.000
+[2018.02.13-02.29.33:186][590]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.978 Y=0.207 Z=-0.000
+[2018.02.13-02.29.33:214][591]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.985 Y=0.175 Z=-0.000
+[2018.02.13-02.29.33:243][592]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.990 Y=0.142 Z=-0.000
+[2018.02.13-02.29.33:272][593]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.993 Y=0.115 Z=-0.000
+[2018.02.13-02.29.33:299][594]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.996 Y=0.088 Z=-0.000
+[2018.02.13-02.29.33:326][595]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.998 Y=0.063 Z=-0.000
+[2018.02.13-02.29.33:354][596]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.999 Y=0.039 Z=-0.000
+[2018.02.13-02.29.33:382][597]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=0.015 Z=-0.000
+[2018.02.13-02.29.33:410][598]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=-0.010 Z=-0.000
+[2018.02.13-02.29.33:437][599]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.999 Y=-0.034 Z=-0.000
+[2018.02.13-02.29.33:465][600]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.998 Y=-0.059 Z=-0.000
+[2018.02.13-02.29.33:492][601]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.997 Y=-0.083 Z=-0.000
+[2018.02.13-02.29.33:522][602]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.995 Y=-0.101 Z=-0.000
+[2018.02.13-02.29.33:549][603]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.992 Y=-0.122 Z=-0.000
+[2018.02.13-02.29.33:580][604]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.990 Y=-0.138 Z=-0.000
+[2018.02.13-02.29.33:608][605]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=-0.150 Z=-0.000
+[2018.02.13-02.29.33:634][606]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:661][607]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:688][608]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:715][609]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:741][610]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:768][611]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:794][612]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:821][613]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:848][614]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:874][615]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:902][616]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:928][617]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:955][618]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.33:981][619]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.34:009][620]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.34:037][621]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.34:063][622]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.34:091][623]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.156 Z=-0.000
+[2018.02.13-02.29.34:119][624]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=-0.153 Z=-0.000
+[2018.02.13-02.29.34:146][625]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.990 Y=-0.141 Z=-0.000
+[2018.02.13-02.29.34:174][626]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.993 Y=-0.119 Z=-0.000
+[2018.02.13-02.29.34:203][627]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.996 Y=-0.089 Z=-0.000
+[2018.02.13-02.29.34:231][628]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.998 Y=-0.058 Z=-0.000
+[2018.02.13-02.29.34:259][629]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=-0.027 Z=-0.000
+[2018.02.13-02.29.34:286][630]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=-0.009 Z=-0.000
+[2018.02.13-02.29.34:313][631]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=0.003 Z=-0.000
+[2018.02.13-02.29.34:344][632]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=0.015 Z=-0.000
+[2018.02.13-02.29.34:373][633]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.999 Y=0.034 Z=-0.000
+[2018.02.13-02.29.34:401][634]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.998 Y=0.067 Z=-0.000
+[2018.02.13-02.29.34:429][635]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.994 Y=0.110 Z=-0.000
+[2018.02.13-02.29.34:457][636]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.987 Y=0.158 Z=-0.000
+[2018.02.13-02.29.34:485][637]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.976 Y=0.217 Z=-0.000
+[2018.02.13-02.29.34:513][638]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.957 Y=0.289 Z=-0.000
+[2018.02.13-02.29.34:543][639]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.931 Y=0.366 Z=-0.000
+[2018.02.13-02.29.34:572][640]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.893 Y=0.451 Z=-0.000
+[2018.02.13-02.29.34:600][641]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.850 Y=0.527 Z=-0.000
+[2018.02.13-02.29.34:628][642]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.802 Y=0.598 Z=-0.000
+[2018.02.13-02.29.34:656][643]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.753 Y=0.658 Z=-0.000
+[2018.02.13-02.29.34:686][644]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.702 Y=0.712 Z=-0.000
+[2018.02.13-02.29.34:714][645]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.649 Y=0.761 Z=-0.000
+[2018.02.13-02.29.34:743][646]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.593 Y=0.805 Z=-0.000
+[2018.02.13-02.29.34:770][647]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.533 Y=0.846 Z=-0.000
+[2018.02.13-02.29.34:798][648]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.472 Y=0.881 Z=-0.000
+[2018.02.13-02.29.34:826][649]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.414 Y=0.910 Z=-0.000
+[2018.02.13-02.29.34:854][650]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.352 Y=0.936 Z=-0.000
+[2018.02.13-02.29.34:882][651]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.300 Y=0.954 Z=-0.000
+[2018.02.13-02.29.34:910][652]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.249 Y=0.968 Z=-0.000
+[2018.02.13-02.29.34:938][653]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.200 Y=0.980 Z=-0.000
+[2018.02.13-02.29.34:966][654]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.153 Y=0.988 Z=-0.000
+[2018.02.13-02.29.34:995][655]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.104 Y=0.995 Z=-0.000
+[2018.02.13-02.29.35:024][656]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.055 Y=0.998 Z=-0.000
+[2018.02.13-02.29.35:052][657]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.002 Y=1.000 Z=-0.000
+[2018.02.13-02.29.35:080][658]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.049 Y=0.999 Z=-0.000
+[2018.02.13-02.29.35:110][659]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.094 Y=0.996 Z=-0.000
+[2018.02.13-02.29.35:138][660]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.145 Y=0.989 Z=-0.000
+[2018.02.13-02.29.35:167][661]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.196 Y=0.981 Z=-0.000
+[2018.02.13-02.29.35:195][662]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.263 Y=0.965 Z=-0.000
+[2018.02.13-02.29.35:224][663]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.331 Y=0.944 Z=-0.000
+[2018.02.13-02.29.35:253][664]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.395 Y=0.919 Z=-0.000
+[2018.02.13-02.29.35:281][665]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.464 Y=0.886 Z=-0.000
+[2018.02.13-02.29.35:310][666]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.531 Y=0.848 Z=-0.000
+[2018.02.13-02.29.35:337][667]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.597 Y=0.802 Z=-0.000
+[2018.02.13-02.29.35:365][668]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.651 Y=0.759 Z=-0.000
+[2018.02.13-02.29.35:395][669]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.700 Y=0.714 Z=-0.000
+[2018.02.13-02.29.35:425][670]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.744 Y=0.668 Z=-0.000
+[2018.02.13-02.29.35:453][671]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.783 Y=0.622 Z=-0.000
+[2018.02.13-02.29.35:481][672]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.815 Y=0.580 Z=-0.000
+[2018.02.13-02.29.35:509][673]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.842 Y=0.539 Z=-0.000
+[2018.02.13-02.29.35:538][674]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.864 Y=0.503 Z=-0.000
+[2018.02.13-02.29.35:566][675]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.881 Y=0.473 Z=-0.000
+[2018.02.13-02.29.35:593][676]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.898 Y=0.439 Z=-0.000
+[2018.02.13-02.29.35:621][677]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.914 Y=0.406 Z=-0.000
+[2018.02.13-02.29.35:648][678]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.921 Y=0.389 Z=-0.000
+[2018.02.13-02.29.35:675][679]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.927 Y=0.375 Z=-0.000
+[2018.02.13-02.29.35:702][680]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.930 Y=0.366 Z=-0.000
+[2018.02.13-02.29.35:728][681]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.934 Y=0.358 Z=-0.000
+[2018.02.13-02.29.35:755][682]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.935 Y=0.355 Z=-0.000
+[2018.02.13-02.29.35:781][683]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:808][684]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:834][685]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:861][686]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:888][687]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:914][688]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:941][689]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:967][690]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.35:993][691]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:021][692]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:047][693]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:073][694]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:099][695]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:126][696]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:153][697]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:179][698]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:206][699]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:233][700]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:259][701]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:285][702]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:318][703]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:348][704]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:382][705]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:412][706]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:440][707]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:467][708]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:493][709]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:520][710]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:547][711]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:576][712]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:602][713]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:628][714]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:655][715]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.937 Y=0.349 Z=-0.000
+[2018.02.13-02.29.36:682][716]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.936 Y=0.352 Z=-0.000
+[2018.02.13-02.29.36:712][717]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.929 Y=0.369 Z=-0.000
+[2018.02.13-02.29.36:740][718]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.915 Y=0.404 Z=-0.000
+[2018.02.13-02.29.36:767][719]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.897 Y=0.441 Z=-0.000
+[2018.02.13-02.29.36:796][720]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.872 Y=0.489 Z=-0.000
+[2018.02.13-02.29.36:824][721]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.841 Y=0.541 Z=-0.000
+[2018.02.13-02.29.36:852][722]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.804 Y=0.594 Z=-0.000
+[2018.02.13-02.29.36:880][723]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.767 Y=0.642 Z=-0.000
+[2018.02.13-02.29.36:908][724]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.731 Y=0.682 Z=-0.000
+[2018.02.13-02.29.36:937][725]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.696 Y=0.718 Z=-0.000
+[2018.02.13-02.29.36:965][726]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.661 Y=0.750 Z=-0.000
+[2018.02.13-02.29.36:994][727]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.627 Y=0.779 Z=-0.000
+[2018.02.13-02.29.37:038][728]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.582 Y=0.813 Z=-0.000
+[2018.02.13-02.29.37:069][729]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.503 Y=0.864 Z=-0.000
+[2018.02.13-02.29.37:106][730]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.441 Y=0.898 Z=-0.000
+[2018.02.13-02.29.37:138][731]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.365 Y=0.931 Z=-0.000
+[2018.02.13-02.29.37:167][732]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.291 Y=0.957 Z=-0.000
+[2018.02.13-02.29.37:196][733]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.230 Y=0.973 Z=-0.000
+[2018.02.13-02.29.37:225][734]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.172 Y=0.985 Z=-0.000
+[2018.02.13-02.29.37:254][735]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.113 Y=0.994 Z=-0.000
+[2018.02.13-02.29.37:281][736]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.055 Y=0.998 Z=-0.000
+[2018.02.13-02.29.37:310][737]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.005 Y=1.000 Z=-0.000
+[2018.02.13-02.29.37:339][738]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.052 Y=0.999 Z=-0.000
+[2018.02.13-02.29.37:367][739]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.109 Y=0.994 Z=-0.000
+[2018.02.13-02.29.37:396][740]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.37:426][741]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.214 Y=0.977 Z=-0.000
+[2018.02.13-02.29.37:453][742]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.264 Y=0.964 Z=-0.000
+[2018.02.13-02.29.37:481][743]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.311 Y=0.950 Z=-0.000
+[2018.02.13-02.29.37:511][744]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.359 Y=0.934 Z=-0.000
+[2018.02.13-02.29.37:541][745]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.409 Y=0.912 Z=-0.000
+[2018.02.13-02.29.37:568][746]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.462 Y=0.887 Z=-0.000
+[2018.02.13-02.29.37:596][747]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.516 Y=0.857 Z=-0.000
+[2018.02.13-02.29.37:624][748]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.578 Y=0.816 Z=-0.000
+[2018.02.13-02.29.37:652][749]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.640 Y=0.769 Z=-0.000
+[2018.02.13-02.29.37:681][750]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.699 Y=0.715 Z=-0.000
+[2018.02.13-02.29.37:712][751]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.759 Y=0.651 Z=-0.000
+[2018.02.13-02.29.37:740][752]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.803 Y=0.595 Z=-0.000
+[2018.02.13-02.29.37:768][753]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.840 Y=0.543 Z=-0.000
+[2018.02.13-02.29.37:797][754]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.873 Y=0.487 Z=-0.000
+[2018.02.13-02.29.37:825][755]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.902 Y=0.431 Z=-0.000
+[2018.02.13-02.29.37:854][756]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.928 Y=0.372 Z=-0.000
+[2018.02.13-02.29.37:882][757]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.949 Y=0.316 Z=-0.000
+[2018.02.13-02.29.37:913][758]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.967 Y=0.255 Z=-0.000
+[2018.02.13-02.29.37:943][759]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.983 Y=0.181 Z=-0.000
+[2018.02.13-02.29.37:971][760]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.993 Y=0.117 Z=-0.000
+[2018.02.13-02.29.37:999][761]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.998 Y=0.060 Z=-0.000
+[2018.02.13-02.29.38:028][762]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=0.006 Z=-0.000
+[2018.02.13-02.29.38:057][763]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.998 Y=-0.057 Z=-0.000
+[2018.02.13-02.29.38:085][764]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.992 Y=-0.128 Z=-0.000
+[2018.02.13-02.29.38:114][765]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.980 Y=-0.201 Z=-0.000
+[2018.02.13-02.29.38:144][766]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.965 Y=-0.262 Z=-0.000
+[2018.02.13-02.29.38:173][767]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.948 Y=-0.318 Z=-0.000
+[2018.02.13-02.29.38:201][768]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.932 Y=-0.362 Z=-0.000
+[2018.02.13-02.29.38:230][769]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.917 Y=-0.399 Z=-0.000
+[2018.02.13-02.29.38:257][770]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.902 Y=-0.433 Z=-0.000
+[2018.02.13-02.29.38:284][771]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.896 Y=-0.444 Z=-0.000
+[2018.02.13-02.29.38:312][772]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.895 Y=-0.446 Z=-0.000
+[2018.02.13-02.29.38:340][773]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:366][774]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:393][775]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:419][776]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:446][777]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:473][778]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:499][779]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:527][780]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:554][781]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:580][782]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:607][783]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:633][784]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:662][785]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:689][786]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:716][787]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:743][788]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:770][789]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:797][790]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=-0.449 Z=-0.000
+[2018.02.13-02.29.38:825][791]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.892 Y=-0.452 Z=-0.000
+[2018.02.13-02.29.38:853][792]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.903 Y=-0.430 Z=-0.000
+[2018.02.13-02.29.38:882][793]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.927 Y=-0.376 Z=-0.000
+[2018.02.13-02.29.38:911][794]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.962 Y=-0.273 Z=-0.000
+[2018.02.13-02.29.38:939][795]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.992 Y=-0.130 Z=-0.000
+[2018.02.13-02.29.38:968][796]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-1.000 Y=0.015 Z=-0.000
+[2018.02.13-02.29.38:996][797]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.150 Z=-0.000
+[2018.02.13-02.29.39:026][798]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.962 Y=0.274 Z=-0.000
+[2018.02.13-02.29.39:054][799]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.923 Y=0.385 Z=-0.000
+[2018.02.13-02.29.39:083][800]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.884 Y=0.467 Z=-0.000
+[2018.02.13-02.29.39:111][801]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.846 Y=0.533 Z=-0.000
+[2018.02.13-02.29.39:142][802]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.812 Y=0.584 Z=-0.000
+[2018.02.13-02.29.39:171][803]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.781 Y=0.625 Z=-0.000
+[2018.02.13-02.29.39:199][804]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.756 Y=0.654 Z=-0.000
+[2018.02.13-02.29.39:229][805]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.732 Y=0.681 Z=-0.000
+[2018.02.13-02.29.39:258][806]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.706 Y=0.708 Z=-0.000
+[2018.02.13-02.29.39:286][807]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.684 Y=0.729 Z=-0.000
+[2018.02.13-02.29.39:315][808]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.669 Y=0.744 Z=-0.000
+[2018.02.13-02.29.39:342][809]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.655 Y=0.756 Z=-0.000
+[2018.02.13-02.29.39:370][810]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.639 Y=0.769 Z=-0.000
+[2018.02.13-02.29.39:401][811]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.622 Y=0.783 Z=-0.000
+[2018.02.13-02.29.39:433][812]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.595 Y=0.803 Z=-0.000
+[2018.02.13-02.29.39:464][813]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.568 Y=0.823 Z=-0.000
+[2018.02.13-02.29.39:495][814]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.537 Y=0.844 Z=-0.000
+[2018.02.13-02.29.39:524][815]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.504 Y=0.864 Z=-0.000
+[2018.02.13-02.29.39:552][816]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.470 Y=0.883 Z=-0.000
+[2018.02.13-02.29.39:581][817]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.429 Y=0.903 Z=-0.000
+[2018.02.13-02.29.39:611][818]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.379 Y=0.925 Z=-0.000
+[2018.02.13-02.29.39:639][819]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.322 Y=0.947 Z=-0.000
+[2018.02.13-02.29.39:668][820]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.264 Y=0.965 Z=-0.000
+[2018.02.13-02.29.39:698][821]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.209 Y=0.978 Z=-0.000
+[2018.02.13-02.29.39:727][822]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.155 Y=0.988 Z=-0.000
+[2018.02.13-02.29.39:756][823]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.101 Y=0.995 Z=-0.000
+[2018.02.13-02.29.39:783][824]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.063 Y=0.998 Z=-0.000
+[2018.02.13-02.29.39:811][825]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.029 Y=1.000 Z=-0.000
+[2018.02.13-02.29.39:838][826]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.002 Y=1.000 Z=-0.000
+[2018.02.13-02.29.39:865][827]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.023 Y=1.000 Z=-0.000
+[2018.02.13-02.29.39:894][828]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.041 Y=0.999 Z=-0.000
+[2018.02.13-02.29.39:921][829]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.056 Y=0.998 Z=-0.000
+[2018.02.13-02.29.39:948][830]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.069 Y=0.998 Z=-0.000
+[2018.02.13-02.29.39:976][831]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.075 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:003][832]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:031][833]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:058][834]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:084][835]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:111][836]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:138][837]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:168][838]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:195][839]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:222][840]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:249][841]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:277][842]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:303][843]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:330][844]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:357][845]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:384][846]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:413][847]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:440][848]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:466][849]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:493][850]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:520][851]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:547][852]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.081 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:573][853]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:599][854]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:626][855]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:653][856]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:680][857]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:707][858]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:733][859]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:760][860]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:785][861]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:813][862]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:839][863]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:865][864]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:891][865]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:917][866]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:944][867]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:969][868]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.40:996][869]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.41:023][870]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.41:050][871]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.078 Y=0.997 Z=-0.000
+[2018.02.13-02.29.41:078][872]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.066 Y=0.998 Z=-0.000
+[2018.02.13-02.29.41:105][873]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.027 Y=1.000 Z=-0.000
+[2018.02.13-02.29.41:133][874]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.057 Y=0.998 Z=-0.000
+[2018.02.13-02.29.41:161][875]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.194 Y=0.981 Z=-0.000
+[2018.02.13-02.29.41:189][876]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.379 Y=0.926 Z=-0.000
+[2018.02.13-02.29.41:217][877]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.563 Y=0.827 Z=-0.000
+[2018.02.13-02.29.41:244][878]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.717 Y=0.697 Z=-0.000
+[2018.02.13-02.29.41:272][879]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.835 Y=0.550 Z=-0.000
+[2018.02.13-02.29.41:300][880]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.908 Y=0.419 Z=-0.000
+[2018.02.13-02.29.41:329][881]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.948 Y=0.318 Z=-0.000
+[2018.02.13-02.29.41:357][882]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.969 Y=0.247 Z=-0.000
+[2018.02.13-02.29.41:386][883]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.982 Y=0.190 Z=-0.000
+[2018.02.13-02.29.41:415][884]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.147 Z=-0.000
+[2018.02.13-02.29.41:441][885]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.993 Y=0.117 Z=-0.000
+[2018.02.13-02.29.41:467][886]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.994 Y=0.114 Z=-0.000
+[2018.02.13-02.29.41:494][887]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.994 Y=0.114 Z=-0.000
+[2018.02.13-02.29.41:521][888]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.994 Y=0.114 Z=-0.000
+[2018.02.13-02.29.41:548][889]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.994 Y=0.114 Z=-0.000
+[2018.02.13-02.29.41:576][890]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.994 Y=0.111 Z=-0.000
+[2018.02.13-02.29.41:603][891]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.993 Y=0.120 Z=-0.000
+[2018.02.13-02.29.41:631][892]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.992 Y=0.129 Z=-0.000
+[2018.02.13-02.29.41:658][893]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.990 Y=0.138 Z=-0.000
+[2018.02.13-02.29.41:685][894]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.989 Y=0.147 Z=-0.000
+[2018.02.13-02.29.41:712][895]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.988 Y=0.156 Z=-0.000
+[2018.02.13-02.29.41:739][896]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.986 Y=0.165 Z=-0.000
+[2018.02.13-02.29.41:766][897]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.985 Y=0.171 Z=-0.000
+[2018.02.13-02.29.41:793][898]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.984 Y=0.180 Z=-0.000
+[2018.02.13-02.29.41:820][899]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.983 Y=0.186 Z=-0.000
+[2018.02.13-02.29.41:847][900]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.981 Y=0.192 Z=-0.000
+[2018.02.13-02.29.41:874][901]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.981 Y=0.195 Z=-0.000
+[2018.02.13-02.29.41:902][902]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.979 Y=0.204 Z=-0.000
+[2018.02.13-02.29.41:931][903]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.975 Y=0.222 Z=-0.000
+[2018.02.13-02.29.41:960][904]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.967 Y=0.255 Z=-0.000
+[2018.02.13-02.29.41:989][905]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.958 Y=0.287 Z=-0.000
+[2018.02.13-02.29.42:018][906]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.944 Y=0.331 Z=-0.000
+[2018.02.13-02.29.42:047][907]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.925 Y=0.379 Z=-0.000
+[2018.02.13-02.29.42:075][908]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.894 Y=0.449 Z=-0.000
+[2018.02.13-02.29.42:103][909]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.846 Y=0.534 Z=-0.000
+[2018.02.13-02.29.42:132][910]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.781 Y=0.625 Z=-0.000
+[2018.02.13-02.29.42:163][911]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.707 Y=0.707 Z=-0.000
+[2018.02.13-02.29.42:191][912]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.630 Y=0.776 Z=-0.000
+[2018.02.13-02.29.42:219][913]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.560 Y=0.828 Z=-0.000
+[2018.02.13-02.29.42:248][914]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.511 Y=0.859 Z=-0.000
+[2018.02.13-02.29.42:275][915]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.481 Y=0.877 Z=-0.000
+[2018.02.13-02.29.42:302][916]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.473 Y=0.881 Z=-0.000
+[2018.02.13-02.29.42:329][917]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.470 Y=0.883 Z=-0.000
+[2018.02.13-02.29.42:356][918]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.467 Y=0.884 Z=-0.000
+[2018.02.13-02.29.42:384][919]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.459 Y=0.888 Z=-0.000
+[2018.02.13-02.29.42:412][920]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.446 Y=0.895 Z=-0.000
+[2018.02.13-02.29.42:438][921]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.437 Y=0.899 Z=-0.000
+[2018.02.13-02.29.42:466][922]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.432 Y=0.902 Z=-0.000
+[2018.02.13-02.29.42:493][923]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.429 Y=0.903 Z=-0.000
+[2018.02.13-02.29.42:520][924]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.426 Y=0.905 Z=-0.000
+[2018.02.13-02.29.42:549][925]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.415 Y=0.910 Z=-0.000
+[2018.02.13-02.29.42:577][926]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.399 Y=0.917 Z=-0.000
+[2018.02.13-02.29.42:604][927]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.382 Y=0.924 Z=-0.000
+[2018.02.13-02.29.42:631][928]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.376 Y=0.927 Z=-0.000
+[2018.02.13-02.29.42:659][929]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.376 Y=0.927 Z=-0.000
+[2018.02.13-02.29.42:685][930]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.376 Y=0.927 Z=-0.000
+[2018.02.13-02.29.42:712][931]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.376 Y=0.927 Z=-0.000
+[2018.02.13-02.29.42:738][932]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.376 Y=0.927 Z=-0.000
+[2018.02.13-02.29.42:766][933]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.376 Y=0.927 Z=-0.000
+[2018.02.13-02.29.42:793][934]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.376 Y=0.927 Z=-0.000
+[2018.02.13-02.29.42:820][935]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.373 Y=0.928 Z=-0.000
+[2018.02.13-02.29.42:847][936]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.373 Y=0.928 Z=-0.000
+[2018.02.13-02.29.42:874][937]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.373 Y=0.928 Z=-0.000
+[2018.02.13-02.29.42:902][938]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.370 Y=0.929 Z=-0.000
+[2018.02.13-02.29.42:929][939]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.365 Y=0.931 Z=-0.000
+[2018.02.13-02.29.42:956][940]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.365 Y=0.931 Z=-0.000
+[2018.02.13-02.29.42:984][941]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.365 Y=0.931 Z=-0.000
+[2018.02.13-02.29.43:011][942]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.362 Y=0.932 Z=-0.000
+[2018.02.13-02.29.43:038][943]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.359 Y=0.933 Z=-0.000
+[2018.02.13-02.29.43:065][944]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:091][945]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:118][946]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:145][947]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:173][948]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:204][949]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:231][950]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:258][951]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:285][952]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:311][953]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:338][954]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:365][955]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:391][956]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:418][957]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:445][958]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.356 Y=0.934 Z=-0.000
+[2018.02.13-02.29.43:471][959]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.353 Y=0.936 Z=-0.000
+[2018.02.13-02.29.43:498][960]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.353 Y=0.936 Z=-0.000
+[2018.02.13-02.29.43:528][961]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.350 Y=0.937 Z=-0.000
+[2018.02.13-02.29.43:554][962]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.345 Y=0.939 Z=-0.000
+[2018.02.13-02.29.43:582][963]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.342 Y=0.940 Z=-0.000
+[2018.02.13-02.29.43:609][964]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.336 Y=0.942 Z=-0.000
+[2018.02.13-02.29.43:635][965]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.330 Y=0.944 Z=-0.000
+[2018.02.13-02.29.43:663][966]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.325 Y=0.946 Z=-0.000
+[2018.02.13-02.29.43:690][967]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.319 Y=0.948 Z=-0.000
+[2018.02.13-02.29.43:719][968]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.310 Y=0.951 Z=-0.000
+[2018.02.13-02.29.43:745][969]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.301 Y=0.954 Z=-0.000
+[2018.02.13-02.29.43:772][970]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.296 Y=0.955 Z=-0.000
+[2018.02.13-02.29.43:800][971]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.284 Y=0.959 Z=-0.000
+[2018.02.13-02.29.43:826][972]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.275 Y=0.961 Z=-0.000
+[2018.02.13-02.29.43:854][973]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.269 Y=0.963 Z=-0.000
+[2018.02.13-02.29.43:881][974]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.266 Y=0.964 Z=-0.000
+[2018.02.13-02.29.43:907][975]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.260 Y=0.966 Z=-0.000
+[2018.02.13-02.29.43:936][976]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.257 Y=0.966 Z=-0.000
+[2018.02.13-02.29.43:964][977]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.249 Y=0.969 Z=-0.000
+[2018.02.13-02.29.43:991][978]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.240 Y=0.971 Z=-0.000
+[2018.02.13-02.29.44:019][979]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.225 Y=0.974 Z=-0.000
+[2018.02.13-02.29.44:045][980]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.216 Y=0.976 Z=-0.000
+[2018.02.13-02.29.44:072][981]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.204 Y=0.979 Z=-0.000
+[2018.02.13-02.29.44:100][982]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.198 Y=0.980 Z=-0.000
+[2018.02.13-02.29.44:127][983]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.192 Y=0.981 Z=-0.000
+[2018.02.13-02.29.44:158][984]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.183 Y=0.983 Z=-0.000
+[2018.02.13-02.29.44:188][985]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.162 Y=0.987 Z=-0.000
+[2018.02.13-02.29.44:216][986]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.130 Y=0.992 Z=-0.000
+[2018.02.13-02.29.44:244][987]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.095 Y=0.996 Z=-0.000
+[2018.02.13-02.29.44:272][988]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=-0.049 Y=0.999 Z=-0.000
+[2018.02.13-02.29.44:300][989]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.011 Y=1.000 Z=-0.000
+[2018.02.13-02.29.44:328][990]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.073 Y=0.997 Z=-0.000
+[2018.02.13-02.29.44:356][991]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.134 Y=0.991 Z=-0.000
+[2018.02.13-02.29.44:385][992]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.186 Y=0.983 Z=-0.000
+[2018.02.13-02.29.44:414][993]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.230 Y=0.973 Z=-0.000
+[2018.02.13-02.29.44:442][994]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.272 Y=0.962 Z=-0.000
+[2018.02.13-02.29.44:471][995]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.303 Y=0.953 Z=-0.000
+[2018.02.13-02.29.44:500][996]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.347 Y=0.938 Z=-0.000
+[2018.02.13-02.29.44:529][997]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.399 Y=0.917 Z=-0.000
+[2018.02.13-02.29.44:556][998]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.442 Y=0.897 Z=-0.000
+[2018.02.13-02.29.44:585][999]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.475 Y=0.880 Z=-0.000
+[2018.02.13-02.29.44:614][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.507 Y=0.862 Z=-0.000
+[2018.02.13-02.29.44:642][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.536 Y=0.844 Z=-0.000
+[2018.02.13-02.29.44:672][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.562 Y=0.827 Z=-0.000
+[2018.02.13-02.29.44:699][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.585 Y=0.811 Z=-0.000
+[2018.02.13-02.29.44:728][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.607 Y=0.795 Z=-0.000
+[2018.02.13-02.29.44:754][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.628 Y=0.778 Z=-0.000
+[2018.02.13-02.29.44:782][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.652 Y=0.759 Z=-0.000
+[2018.02.13-02.29.44:809][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.674 Y=0.739 Z=-0.000
+[2018.02.13-02.29.44:836][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.690 Y=0.724 Z=-0.000
+[2018.02.13-02.29.44:864][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.703 Y=0.711 Z=-0.000
+[2018.02.13-02.29.44:890][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.714 Y=0.700 Z=-0.000
+[2018.02.13-02.29.44:919][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.722 Y=0.692 Z=-0.000
+[2018.02.13-02.29.44:945][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_252] X=0.729 Y=0.685 Z=-0.000
