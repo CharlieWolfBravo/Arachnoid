@@ -1,3 +1,0 @@
-C:\Users\lance.chisholm\Documents\Arachnoid\Source\Arachnoid\Arachnoid.Build.cs
-C:\Users\lance.chisholm\Documents\Arachnoid\Source\Arachnoid.Target.cs
-C:\Users\lance.chisholm\Documents\Arachnoid\Source\ArachnoidEditor.Target.cs
