@@ -22,5 +22,9 @@
 			"Name": "ApexDestruction",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor"
 	]
 }
